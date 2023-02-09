@@ -1,5 +1,5 @@
 # Operating-System
-Operating System Stuy
+Operating System Study
 
 ---
 
