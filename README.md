@@ -1,7 +1,5 @@
 # Operating-System
 
-## 1주차
-
 - [프로세스와 스레드의 차이점에 대해 설명하시오.](https://github.com/iOS-Junior-Developers/Operating-System/issues/1)
 - [Race Condition에 대해 설명하시오.](https://github.com/iOS-Junior-Developers/Operating-System/issues/2)
 - [메모리가 부족하면 OS 가 어떤일을 할까?](https://github.com/iOS-Junior-Developers/Operating-System/issues/3)
@@ -17,3 +15,19 @@
 - [First Fit, Best Fit, Worst Fit](https://github.com/iOS-Junior-Developers/Operating-System/issues/13)
 - [외부단편화, 내부단편화](https://github.com/iOS-Junior-Developers/Operating-System/issues/14)
 - [페이지와 세그멘테이션](https://github.com/iOS-Junior-Developers/Operating-System/issues/15)
+
+- [페이지 교체 알고리즘의 종류](https://github.com/iOS-Junior-Developers/Operating-System/issues/16)
+- [가상 메모리의 개념과 사용할시의 장단점](https://github.com/iOS-Junior-Developers/Operating-System/issues/17)
+- [시스템 콜](https://github.com/iOS-Junior-Developers/Operating-System/issues/18)
+- [IPC](https://github.com/iOS-Junior-Developers/Operating-System/issues/19)
+- [인터럽트](https://github.com/iOS-Junior-Developers/Operating-System/issues/20)
+- [뮤텍스와 세마포어의 차이](https://github.com/iOS-Junior-Developers/Operating-System/issues/21)
+- [Context Switching의 개념과 과정](https://github.com/iOS-Junior-Developers/Operating-System/issues/22)
+- [임계구역](https://github.com/iOS-Junior-Developers/Operating-System/issues/23)
+- [프로세스 혹은 스레드의 동기화란 무엇인가요?](https://github.com/iOS-Junior-Developers/Operating-System/issues/24)
+- [사용자 수준의 스레드와 커널 수준의 스레드의 차이는 무엇인가요?](https://github.com/iOS-Junior-Developers/Operating-System/issues/25)
+- [fork()란 무엇인가요?](https://github.com/iOS-Junior-Developers/Operating-System/issues/26)
+- [child process 와 zombie process](https://github.com/iOS-Junior-Developers/Operating-System/issues/27)
+- [동기와 비동기, 블로킹과 넌블로킹의 차이는 무엇인가요?](https://github.com/iOS-Junior-Developers/Operating-System/issues/28)
+- [Swapping](https://github.com/iOS-Junior-Developers/Operating-System/issues/29)
+- [은행원 알고리즘](https://github.com/iOS-Junior-Developers/Operating-System/issues/30)
