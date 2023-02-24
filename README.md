@@ -16,6 +16,8 @@
 - [외부단편화, 내부단편화](https://github.com/iOS-Junior-Developers/Operating-System/issues/14)
 - [페이지와 세그멘테이션](https://github.com/iOS-Junior-Developers/Operating-System/issues/15)
 
+<br>
+
 - [페이지 교체 알고리즘의 종류](https://github.com/iOS-Junior-Developers/Operating-System/issues/16)
 - [가상 메모리의 개념과 사용할시의 장단점](https://github.com/iOS-Junior-Developers/Operating-System/issues/17)
 - [시스템 콜](https://github.com/iOS-Junior-Developers/Operating-System/issues/18)
