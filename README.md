@@ -34,6 +34,8 @@
 - [Swapping](https://github.com/iOS-Junior-Developers/Operating-System/issues/29)
 - [은행원 알고리즘](https://github.com/iOS-Junior-Developers/Operating-System/issues/30)
 
+<br>
+
 - [Bounded- Buffer Problem](https://github.com/iOS-Junior-Developers/Operating-System/issues/31)
 - [Readers and Writers Problem](https://github.com/iOS-Junior-Developers/Operating-System/issues/32)
 - [Dining Philosophers Problem](https://github.com/iOS-Junior-Developers/Operating-System/issues/33)
