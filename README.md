@@ -33,3 +33,11 @@
 - [동기와 비동기, 블로킹과 넌블로킹의 차이는 무엇인가요?](https://github.com/iOS-Junior-Developers/Operating-System/issues/28)
 - [Swapping](https://github.com/iOS-Junior-Developers/Operating-System/issues/29)
 - [은행원 알고리즘](https://github.com/iOS-Junior-Developers/Operating-System/issues/30)
+
+- [Bounded- Buffer Problem](https://github.com/iOS-Junior-Developers/Operating-System/issues/31)
+- [Readers and Writers Problem](https://github.com/iOS-Junior-Developers/Operating-System/issues/32)
+- [Dining Philosophers Problem](https://github.com/iOS-Junior-Developers/Operating-System/issues/33)
+- [Call Stack에 대해 설명하시오](https://github.com/iOS-Junior-Developers/Operating-System/issues/34)
+- [Heap Corruption에 대해 설명하시오](https://github.com/iOS-Junior-Developers/Operating-System/issues/35)
+- [Heap 메모리는 무엇이고 사용하는 이유는 무엇인가](https://github.com/iOS-Junior-Developers/Operating-System/issues/36)
+- [Heap과 Stack의 장단점 비교 (속도, 크기 등)](https://github.com/iOS-Junior-Developers/Operating-System/issues/37)
